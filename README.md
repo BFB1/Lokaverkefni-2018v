@@ -1,3 +1,3 @@
 # Lokaverkefni-2018v
 
-Halló
+Lokaverkefni í vefhönnun á vorönn 2018
