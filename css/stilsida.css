@@ -38,12 +38,12 @@ header nav a {
 }
 
 /*Content*/
-.mainContent {
+.main {
 	max-width: 60em;
 	margin: auto;
 	display: flex;
 }
-blockquote {
+.mainContent {
 
 	/*Til þess að texti geti farið yfir myndir þá er dökkur gegnsær bakgrunnur.
 	Ef textin er hvítur ætti það að virka með öllum myndum*/
