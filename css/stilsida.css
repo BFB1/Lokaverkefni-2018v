@@ -7,6 +7,8 @@
   	display: flex;
   	align-items: center;
 
+  	color: white;
+
     font: 400 1em/1.5 'Open Sans', sans-serif;
 }
 a {
@@ -23,16 +25,37 @@ img {
 }
 
 
-
+/*Header*/
 header {
 	text-align: center;
 	margin: auto;
-	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+header nav a {
+	font-size: 2em;
 }
 
+/*Content*/
+.mainContent {
+	max-width: 60em;
+	margin: auto;
+	display: flex;
+}
+blockquote {
+
+	/*Til þess að texti geti farið yfir myndir þá er dökkur gegnsær bakgrunnur.
+	Ef textin er hvítur ætti það að virka með öllum myndum*/
+	background-color: rgba(0, 0, 0, 0.5);
+	box-shadow: 0 0 5px 10px rgba(0, 0, 0, 0.5);
+
+	padding: 2em;
+}
+
+
 /*Backgrounds*/
-/*Possibly timelapse build video backgrounds??*/
+/*Kanski að setja myndband fyrir aftan einn hluta, timlapse footage*/
 .brickBackground {
 	background: linear-gradient(180deg, rgba(0, 0, 0, .8), transparent), url(https://www.introversion.co.uk/prisonarchitect/platform-selector/assets/images/darkbrick.png);
 }
