@@ -34,7 +34,23 @@ header {
 	font-family: 'Raleway', sans-serif;
 }
 header nav a {
-	font-size: 2em;
+	font-size: 1.125rem;
+}
+header nav {
+	display: flex;
+}
+.button {
+	padding: 35px 25px;
+	width: 100%;
+
+	border: 2px solid #f7941d;
+	transition: background-color .3s ease-in-out, color .3s ease-in-out;
+}
+.button:not(:last-child) {
+	margin-right: 30px;
+}
+.button:hover {
+	background-color: #f7941d;
 }
 
 /*Content*/
