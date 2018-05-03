@@ -63,8 +63,8 @@ header nav {
 
 	/*Til þess að texti geti farið yfir myndir þá er dökkur gegnsær bakgrunnur.
 	Ef textin er hvítur ætti það að virka með öllum myndum*/
-	background-color: rgba(0, 0, 0, 0.5);
-	box-shadow: 0 0 5px 10px rgba(0, 0, 0, 0.5);
+	background-color: rgba(0, 0, 0, 0.7);
+	box-shadow: 0 0 5px 10px rgba(0, 0, 0, 0.7);
 
 	padding: 2em;
 }
