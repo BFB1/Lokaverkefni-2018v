@@ -76,5 +76,12 @@ header nav {
 	background: linear-gradient(180deg, rgba(0, 0, 0, .8), transparent), url(https://www.introversion.co.uk/prisonarchitect/platform-selector/assets/images/darkbrick.png);
 }
 .prison1Background {
-	background: linear-gradient(180deg, rgba(0, 0, 0, .8), transparent), url(https://www.introversion.co.uk/prisonarchitect/images/screenshots/large/prison-architect-2.jpg);
+	background:
+        radial-gradient(transparent, rgba(0, 0, 0, .8)),
+        url("https://www.introversion.co.uk/prisonarchitect/images/screenshots/large/prison-architect-2.jpg");
+}
+.prison2Background {
+	background:
+        radial-gradient(transparent, rgba(0, 0, 0, .8)),
+        url("https://www.introversion.co.uk/prisonarchitect/images/screenshots/large/prison-architect-8.jpg");
 }
