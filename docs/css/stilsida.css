@@ -79,9 +79,15 @@ header nav {
 	background:
         radial-gradient(transparent, rgba(0, 0, 0, .8)),
         url("https://www.introversion.co.uk/prisonarchitect/images/screenshots/large/prison-architect-2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .prison2Background {
 	background:
         radial-gradient(transparent, rgba(0, 0, 0, .8)),
         url("https://www.introversion.co.uk/prisonarchitect/images/screenshots/large/prison-architect-8.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
