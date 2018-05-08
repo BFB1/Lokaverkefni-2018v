@@ -68,6 +68,15 @@ header nav {
 
 	padding: 2em;
 }
+/*Tenglar í Content*/
+.mainContent a {
+	color: #ffae06;
+	text-decoration: underline;
+	padding: 1em;
+}
+.mainContent a:visited {
+	color: #ffff00;
+}
 
 
 /*Bakgrunnar*/
