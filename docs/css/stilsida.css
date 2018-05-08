@@ -70,32 +70,27 @@ header nav {
 }
 
 
-/*Backgrounds*/
-/*Kanski að setja myndband fyrir aftan einn hluta, timlapse footage*/
-.brickBackground {
+/*Bakgrunnar*/
+.brickBackgroundImage {
 	background: linear-gradient(180deg, rgba(0, 0, 0, .8), transparent), url(../images/darkbrick.png);
 }
-.prison1Background {
+.prison1BackgroundImage {
 	background:
         radial-gradient(transparent, rgba(0, 0, 0, .999)),
         url("../images/prison-architect-1.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
-.prison2Background {
+.prison2BackgroundImage {
 	background:
         radial-gradient(transparent, rgba(0, 0, 0, .999)),
         url("../images/prison-architect-2.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
-.prison3Background {
+.prison3BackgroundImage {
 	background:
         radial-gradient(transparent, rgba(0, 0, 0, .999)),
         url("../images/prison-architect-3.jpg");
-    background-position: center;
+}
+.backgroundImage {
+	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
