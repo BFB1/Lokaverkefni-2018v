@@ -1,6 +1,6 @@
 # Lokaverkefni í vefhönnun á vorönn 2018
 
-Tengill: https://bfb1.github.io/Lokaverkefni-2018v/
+Tengill: https://baldurfb.github.io/Lokaverkefni-2018v/
 
 Verkefnið fjallar um tölvuleikin Prison Architect eftir Introversion Software.
 Prison Architect er tölvuleikur þar sem maður býr til og stjórnar fangelsi.
